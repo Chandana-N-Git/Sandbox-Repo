@@ -1,0 +1,4 @@
+[core]
+    remote = nas
+['remote "nas"']
+    url = /home/youngcto13/aisandbox/nas_storage
