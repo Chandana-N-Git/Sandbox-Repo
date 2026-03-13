@@ -1,0 +1,8 @@
+path: /home/youngcto13/aisandbox/myproj/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: dog
+  1: cat
